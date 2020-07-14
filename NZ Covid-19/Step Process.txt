@@ -1,0 +1,34 @@
+COVID 19 DATA PROCESS
+
+
+download raw data
+
+|
+v
+
+set correct column names
+
+|
+v
+
+import csv file to ssms database
+
+|
+v
+
+update raw data
+
+|
+v
+
+run ssis packages
+
+|
+v
+
+update data warehouse
+
+|
+v
+
+refresh data on power bi
